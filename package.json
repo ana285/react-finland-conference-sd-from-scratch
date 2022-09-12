@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/broken-action-agroc.blank-l7ydj07v",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve U9ZcoPhrdDlJETFXmat1 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
